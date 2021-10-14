@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1634181795108,
+      "title": "title 1",
+      "body": "title 1",
+      "userId": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
